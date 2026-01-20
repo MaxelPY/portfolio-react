@@ -1,6 +1,6 @@
 import { useState } from "react"
 import Section from "./Section"
-import Card from "./Card"
+import Card from "./card"
 
 function Contact({ contact }) {
   // 1) Estado para guardar lo que el usuario escribe
